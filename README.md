@@ -1,0 +1,1 @@
+This repository contains files related to the paper "Rare variant in intracellular loop-2 reprograms the spatial distribution and transducer coupling selectivity of the ghrelin receptor" by Elsa M. Balfe, Alexandre Torbey, Tomasz M. Stepniewski, Yang Zhou, Lara Kohlenbach, Jade A. Sency, Asuka Inoue, Lauren M. Slosky, Jana Selent, Lawrence S. Barak and Joshua D. Gross.
